@@ -279,6 +279,3 @@ class GoogleLeads:
 
 
     pass
-
-app=GoogleLeads('Google')
-app.main()
