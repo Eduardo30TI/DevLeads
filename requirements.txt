@@ -1,4 +1,4 @@
--m==pip==install==--upgrade==pip
+-m pip install --upgrade pip
 altair==5.2.0
 altgraph==0.17.4
 anyio==4.1.0
